@@ -1,0 +1,9 @@
+load "../test/ZpCarletGrayMap_BB_test.m";
+load "../test/ZpHadamardGrayMap_BB_test.m";
+load "../test/ZpRandomCode_BB_test.m";
+load "../test/ZpResidueTorsionCode_BB_test.m";
+load "../test/ZpStandardForm_BB_test.m";
+load "../test/ZpDual_BB_test.m";
+load "../test/ZpWeightDistribution_BB_test.m";
+load "../test/ZpEncoding_BB_test.m";
+load "../test/ZpDecoding_BB_test.m"; 
