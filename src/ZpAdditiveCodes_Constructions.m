@@ -39,7 +39,7 @@
 /*                                                           */
 /*************************************************************/
 //Uncomment freeze when package finished
-//freeze
+freeze
 
 intrinsic ZpAdditiveCodes_Constructions_version() -> SeqEnum
 {Return the current version of this package.}
