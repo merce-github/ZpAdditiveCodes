@@ -35,7 +35,7 @@
 /*                                                           */
 /*************************************************************/
 //Uncomment freeze when package finished
-//freeze
+freeze
 
 intrinsic ZpAdditiveCodes_Distances_version() -> SeqEnum
 {Return the current version of this package.}
