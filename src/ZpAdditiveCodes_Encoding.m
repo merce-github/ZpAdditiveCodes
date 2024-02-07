@@ -37,7 +37,7 @@
 /*                                                           */
 /*************************************************************/
 //Uncomment freeze when package finished
-//freeze
+freeze
 
 intrinsic ZpAdditiveCodes_Encoding_version() -> SeqEnum
 {Return the current version of this package.}
